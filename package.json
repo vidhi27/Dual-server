@@ -1,0 +1,22 @@
+{
+  "name": "dual-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "two-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vidhi27/Dual-server.git"
+  },
+  "author": "Vidhi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vidhi27/Dual-server/issues"
+  },
+  "homepage": "https://github.com/vidhi27/Dual-server#readme",
+  "dependencies": {
+    "http": "0.0.0"
+  }
+}
